@@ -4,7 +4,9 @@ Created By:
 1. Kaviya U C - D20018
 
 2. Shivani Nehra - D20031
+
 Notebook link:
+https://github.com/shivaninehra/Python_Automating_EDA_Project/blob/main/D20018%20-D20031-%20PY-ENDTERM%20.ipynb
 
 
 Ques 1 : https://www.youtube.com/watch?v=MPPcG1ex6tM 
