@@ -27,7 +27,7 @@ Topics Covered:-
 4. Graphs Function - Main Function
 
 
-Video 3 : https://www.youtube.com/watch?v=15LmIhtpV1U
+Ques 3 : https://www.youtube.com/watch?v=15LmIhtpV1U
 
 Description :
 We are creating a function to plot Histogram, Boxplot, Barplot for specified columns and saving the images in the working directory.
@@ -38,7 +38,7 @@ Topics Covered :-
 3. Barplot Function for particular columns 
 4. Graphs Function for particular columns - Main Function
 
-Video 4: https://youtu.be/45e5Qqjz71M
+Ques 4: https://youtu.be/45e5Qqjz71M
 
 Description :
 We are creating a function to plot Histogram, Boxplot, Barplot for specified columns and saving the images in a particular path that may not be in the working directory.
