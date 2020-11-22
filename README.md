@@ -1,8 +1,9 @@
 # Python_Automating_EDA_Project
 Created By:
 
-Kaviya U C - D20018
-Shivani Nehra - D20031
+1. Kaviya U C - D20018
+
+2. Shivani Nehra - D20031
 Notebook link:
 
 
@@ -23,7 +24,7 @@ Topics Covered:-
 1. Histogram Function 
 2. Boxplot Function
 3. Barplot Function 
-4. Graphs Function - main Function
+4. Graphs Function - Main Function
 
 
 Video 3 : https://www.youtube.com/watch?v=15LmIhtpV1U
