@@ -48,3 +48,12 @@ Topics Covered :-
 2. Boxplot Function for particular columns and path
 3. Barplot Function for particular columns and path
 4. Graphs Function for particular columns and path- Main Function
+
+Ques 5: 
+
+Description:-
+
+Features Added:-
+Feature 1: Outlier Analysis: Boxplot Method and Winsorization
+Feature 2: Bivariate Analysis: Creating and Visualizing Cross tab for Categorical Variables
+Feature 3: Estimating the correlation of numerical variables in dataset
