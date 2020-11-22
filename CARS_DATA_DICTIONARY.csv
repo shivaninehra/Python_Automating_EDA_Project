@@ -1,0 +1,17 @@
+Data Dictonary - cars.csv,,,,,,
+,,,,,,
+No.,Attribute name ,Column Index,Type,Values,Definition,Example
+1,Car,0,Categorical,"Audi, Datsun,Ford, etc","Represents the name of the cars
+",Chevrolet Impala
+2,MPG,1,Numerical,0 to 46.6,Represents the MPG of the cars,18
+3,Cylinders,2,Numerical,"3,4,5,6,7,8",Represents the number of cylinders in the cars,8
+4,Displacement,3,Numerical,68 to 455,Represents the engine displacement of the cars,307
+5,Horsepower,4,Numerical, 0 to 230,Represents the horsepower of the cars,103
+6,Weight,5,Numerical,1613 to 5140,Represents the weight of the cars,3504
+7,Acceleration,6,Numerical,8 to 24.8,Represents the acceleration of the cars,12
+8,Model,7,Numerical,70 to 82,Represents the model of the cars,70
+9,Origin,8,Categorical,"Europe, Japan, US",Represents the origin(country) of the cars,US
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

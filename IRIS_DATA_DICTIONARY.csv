@@ -1,0 +1,9 @@
+Data Dictionary iris.csv,,,,,,
+,,,,,,
+,,,,,,
+No ,Attribute Name ,Column Index,Type,Values,Definition,Example
+1,Sepal.Length,0,Numerical,"4.3,4.4,…7.9",Represents the length of the sepal,5
+2,Sepal.Width,1,Numerical,"2,2.2,2.3, …, 4.4",Represents the width of the sepal,3
+3,Petal.Length,2,Numerical,"1,1.1, … , 6.9",Represents the length of the petal,1.6
+4,Petal.Width,3,Numerical,"0.1, 0.2, ...,2.5 ",Represents the width of the petal,0.2
+5,Species,4,Categorical,"setosa, versicolor, virginica",Represents the species of the iris flower,setosa
