@@ -54,7 +54,7 @@ Topics Covered :-
 Ques 5: https://youtu.be/adZ5pSCoGdQ
 
 Description:-
-We are automatimg the EDA process by adding to the features done in Ques1-4. 
+We are automating the EDA process by adding to the features done in Ques1-4. 
 
 Features Added:-
 
